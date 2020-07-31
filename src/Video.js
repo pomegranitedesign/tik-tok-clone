@@ -28,6 +28,7 @@ const Video = ({
 			<video
 				autoPlay
 				loop
+				controls={false}
 				onClick={onVideoPress}
 				ref={videoRef}
 				src={url}

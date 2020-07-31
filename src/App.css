@@ -11,7 +11,7 @@
 	height: 850px;
 	overflow: scroll;
 	width: 80%;
-	max-width: 600px;
+	max-width: 500px;
 	scroll-snap-type: y mandatory;
 	-ms-overflow-style: none;
 	scrollbar-width: none;
