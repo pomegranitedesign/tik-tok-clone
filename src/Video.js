@@ -27,7 +27,6 @@ const Video = ({
 		<div className="video">
 			<video
 				autoPlay
-				muted
 				loop
 				onClick={onVideoPress}
 				ref={videoRef}
